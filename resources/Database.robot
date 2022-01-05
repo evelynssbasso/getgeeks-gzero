@@ -1,5 +1,5 @@
 *Settings*
-Documentation       Database Helpers
+Documentation           Database Helpers
 
 Library     DatabaseLibrary
 
@@ -7,13 +7,20 @@ Library     DatabaseLibrary
 Connect To Postgres
 
     Connect To Database     psycopg2
-    ...                     yqvngvqr
-    ...                     yqvngvqr
-    ...                     OgPlLVHSsiq93FsdI5-8U_exzogjpj1u
-    ...                     fanny.db.elephantsql.com
+    ...                     hacfvybp
+    ...                     hacfvybp
+    ...                     G4QVI9vGGGxXP6MXmjom8B-BPKXfOnNo
+    ...                     chunee.db.elephantsql.com
     ...                     5432
 
 Reset Env
 
     Execute SQL String      DELETE from public.geeks;
     Execute SQL String      DELETE from public.users;
+
+Insert User
+    [Arguments]     ${u}
+
+    ${q}    Set Variable    INSERT INTO public.users (name, email, password_hash, is_geek) values ('${u}[name] ${u}[lastname]', '${u}[email]', '${u}[password]', false)
+
+    Execute SQL String      ${q}
