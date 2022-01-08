@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.1 (Python 3.9.7 on win32)" generated="20220104 20:49:14.432" rpa="false" schemaversion="2">
+<suite id="s1" name="Tests" source="C:\GravidadeZERO\getgeeks\project\frontend\tests">
+<suite id="s1-s1" name="SignupRequired" source="C:\GravidadeZERO\getgeeks\project\frontend\tests\SignupRequired.robot">
+<kw name="Signup Without Fill Form" type="SETUP">
+<kw name="Start Session" library="Base">
+<kw name="New Browser" library="Browser">
+<arg>${BROWSER}</arg>
+<arg>headless=${HEADLESS}</arg>
+<arg>slowMo=00:00:00</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Create a new playwright Browser with specified options.</doc>
+<msg timestamp="20220104 20:49:16.169" level="INFO">{"browser": "chromium", "headless": true, "handleSIGINT": true, "handleSIGTERM": true, "handleSIGHUP": true, "timeout": 30000.0, "devtools": false, "slowMo": 0.0, "tracesDir": "C:\\GravidadeZERO\\getgeeks\\project\\frontend\\logs\\pabot_results\\3\\browser\\traces\\6b32f15f-4ed6-4e7e-a779-8c5d742aab99"}</msg>
+<msg timestamp="20220104 20:49:16.475" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":true,"handleSIGINT":true,"handleSIGTERM":true,"handleSIGHUP":true,"timeout":30000,"devtools":false,"slowMo":0,"tracesDir":"C:\\GravidadeZERO\\getgeeks\\project\\frontend\\logs\\pabot_results\\3\\browser\\traces\\6b32f15f-4ed6-4e7e-a779-8c5d742aab99"}</msg>
+<status status="PASS" starttime="20220104 20:49:16.169" endtime="20220104 20:49:16.475"/>
+</kw>
+<kw name="New Page" library="Browser">
+<arg>${BASE_URL}</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Open a new Page. A Page is the Playwright equivalent to a tab.
+See `Browser, Context and Page` for more information about Page concept.
+Returns a stable identifier for the created page.</doc>
+<msg timestamp="20220104 20:49:22.037" level="INFO">Successfully initialized new page object and opened url: https://getgeeks-evelyn.herokuapp.com</msg>
+<msg timestamp="20220104 20:49:22.037" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
+<status status="PASS" starttime="20220104 20:49:16.476" endtime="20220104 20:49:22.037"/>
+</kw>
+<kw name="Set Viewport Size" library="Browser">
+<arg>1280</arg>
+<arg>768</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Sets current Pages viewport size to specified dimensions.</doc>
+<msg timestamp="20220104 20:49:22.050" level="INFO">Set viewport size to: [object Object]</msg>
+<status status="PASS" starttime="20220104 20:49:22.038" endtime="20220104 20:49:22.051"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:16.168" endtime="20220104 20:49:22.051"/>
+</kw>
+<kw name="Go To Signup Form" library="SignupActions">
+<kw name="Go To" library="Browser">
+<arg>${BASE_URL}/signup</arg>
+<tag>BrowserControl</tag>
+<tag>Setter</tag>
+<doc>Navigates to the given ``url``.</doc>
+<msg timestamp="20220104 20:49:22.851" level="INFO">Successfully opened URL https://getgeeks-evelyn.herokuapp.com/signup</msg>
+<status status="PASS" starttime="20220104 20:49:22.053" endtime="20220104 20:49:22.852"/>
+</kw>
+<kw name="Wait For Elements State" library="Browser">
+<arg>css=.signup-form</arg>
+<arg>visible</arg>
+<arg>5</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20220104 20:49:22.888" level="INFO">Wait for Element with selector: css=.signup-form</msg>
+<status status="PASS" starttime="20220104 20:49:22.852" endtime="20220104 20:49:22.888"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:22.052" endtime="20220104 20:49:22.888"/>
+</kw>
+<kw name="Submit Signup Form" library="SignupActions">
+<kw name="Click" library="Browser">
+<arg>css=.submit-button &gt;&gt; text=Cadastrar</arg>
+<tag>PageContent</tag>
+<tag>Setter</tag>
+<doc>Simulates mouse click on the element found by ``selector``.</doc>
+<status status="PASS" starttime="20220104 20:49:22.889" endtime="20220104 20:49:22.943"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:22.888" endtime="20220104 20:49:22.944"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:16.168" endtime="20220104 20:49:22.945"/>
+</kw>
+<test id="s1-s1-t1" name="Name is required">
+<kw name="Alert Span Should Be" library="_SharedActions">
+<arg>Cadê o seu nome?</arg>
+<kw name="Wait For Elements State" library="Browser">
+<arg>css=span[class=error] &gt;&gt; text=${expected_alert}</arg>
+<arg>visible</arg>
+<arg>5</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20220104 20:49:22.964" level="INFO">Wait for Element with selector: css=span[class=error] &gt;&gt; text=Cadê o seu nome?</msg>
+<status status="PASS" starttime="20220104 20:49:22.952" endtime="20220104 20:49:22.964"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:22.951" endtime="20220104 20:49:22.965"/>
+</kw>
+<kw name="After Test" library="Base" type="TEARDOWN">
+<kw name="Screenshot Name" library="Utils">
+<var>${shot_name}</var>
+<msg timestamp="20220104 20:49:22.966" level="INFO">${shot_name} = 49ac4c46a3befec4fecee22c0742dd69c5e13c1c</msg>
+<status status="PASS" starttime="20220104 20:49:22.965" endtime="20220104 20:49:22.966"/>
+</kw>
+<kw name="Take Screenshot" library="Browser">
+<arg>fullPage=True</arg>
+<arg>filename=${shot_name}</arg>
+<tag>PageContent</tag>
+<doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
+<msg timestamp="20220104 20:49:23.137" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/49ac4c46a3befec4fecee22c0742dd69c5e13c1c.png"&gt;&lt;img src="browser/screenshot/49ac4c46a3befec4fecee22c0742dd69c5e13c1c.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220104 20:49:22.966" endtime="20220104 20:49:23.137"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:22.965" endtime="20220104 20:49:23.138"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:22.945" endtime="20220104 20:49:23.138"/>
+</test>
+<test id="s1-s1-t2" name="Lastname is required">
+<kw name="Alert Span Should Be" library="_SharedActions">
+<arg>E o sobrenome?</arg>
+<kw name="Wait For Elements State" library="Browser">
+<arg>css=span[class=error] &gt;&gt; text=${expected_alert}</arg>
+<arg>visible</arg>
+<arg>5</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20220104 20:49:23.162" level="INFO">Wait for Element with selector: css=span[class=error] &gt;&gt; text=E o sobrenome?</msg>
+<status status="PASS" starttime="20220104 20:49:23.149" endtime="20220104 20:49:23.162"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.148" endtime="20220104 20:49:23.162"/>
+</kw>
+<kw name="After Test" library="Base" type="TEARDOWN">
+<kw name="Screenshot Name" library="Utils">
+<var>${shot_name}</var>
+<msg timestamp="20220104 20:49:23.163" level="INFO">${shot_name} = b96beb1d7c89b7e99eb2de232469fff067a8e3cb</msg>
+<status status="PASS" starttime="20220104 20:49:23.163" endtime="20220104 20:49:23.163"/>
+</kw>
+<kw name="Take Screenshot" library="Browser">
+<arg>fullPage=True</arg>
+<arg>filename=${shot_name}</arg>
+<tag>PageContent</tag>
+<doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
+<msg timestamp="20220104 20:49:23.319" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/b96beb1d7c89b7e99eb2de232469fff067a8e3cb.png"&gt;&lt;img src="browser/screenshot/b96beb1d7c89b7e99eb2de232469fff067a8e3cb.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220104 20:49:23.163" endtime="20220104 20:49:23.319"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.162" endtime="20220104 20:49:23.319"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.142" endtime="20220104 20:49:23.319"/>
+</test>
+<test id="s1-s1-t3" name="Email is required">
+<kw name="Alert Span Should Be" library="_SharedActions">
+<arg>O email é importante também!</arg>
+<kw name="Wait For Elements State" library="Browser">
+<arg>css=span[class=error] &gt;&gt; text=${expected_alert}</arg>
+<arg>visible</arg>
+<arg>5</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20220104 20:49:23.338" level="INFO">Wait for Element with selector: css=span[class=error] &gt;&gt; text=O email é importante também!</msg>
+<status status="PASS" starttime="20220104 20:49:23.326" endtime="20220104 20:49:23.338"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.326" endtime="20220104 20:49:23.339"/>
+</kw>
+<kw name="After Test" library="Base" type="TEARDOWN">
+<kw name="Screenshot Name" library="Utils">
+<var>${shot_name}</var>
+<msg timestamp="20220104 20:49:23.340" level="INFO">${shot_name} = 6a2f583b583cd3f50d0367d59c804062b9fe03f3</msg>
+<status status="PASS" starttime="20220104 20:49:23.340" endtime="20220104 20:49:23.340"/>
+</kw>
+<kw name="Take Screenshot" library="Browser">
+<arg>fullPage=True</arg>
+<arg>filename=${shot_name}</arg>
+<tag>PageContent</tag>
+<doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
+<msg timestamp="20220104 20:49:23.546" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/6a2f583b583cd3f50d0367d59c804062b9fe03f3.png"&gt;&lt;img src="browser/screenshot/6a2f583b583cd3f50d0367d59c804062b9fe03f3.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220104 20:49:23.340" endtime="20220104 20:49:23.546"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.339" endtime="20220104 20:49:23.547"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.323" endtime="20220104 20:49:23.547"/>
+</test>
+<test id="s1-s1-t4" name="Password is required">
+<kw name="Alert Span Should Be" library="_SharedActions">
+<arg>Agora só falta a senha!</arg>
+<kw name="Wait For Elements State" library="Browser">
+<arg>css=span[class=error] &gt;&gt; text=${expected_alert}</arg>
+<arg>visible</arg>
+<arg>5</arg>
+<tag>PageContent</tag>
+<tag>Wait</tag>
+<doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
+<msg timestamp="20220104 20:49:23.568" level="INFO">Wait for Element with selector: css=span[class=error] &gt;&gt; text=Agora só falta a senha!</msg>
+<status status="PASS" starttime="20220104 20:49:23.556" endtime="20220104 20:49:23.568"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.555" endtime="20220104 20:49:23.569"/>
+</kw>
+<kw name="After Test" library="Base" type="TEARDOWN">
+<kw name="Screenshot Name" library="Utils">
+<var>${shot_name}</var>
+<msg timestamp="20220104 20:49:23.570" level="INFO">${shot_name} = 1f82c9b1658040ec6faf6e8754f3cb09b6be84b6</msg>
+<status status="PASS" starttime="20220104 20:49:23.569" endtime="20220104 20:49:23.570"/>
+</kw>
+<kw name="Take Screenshot" library="Browser">
+<arg>fullPage=True</arg>
+<arg>filename=${shot_name}</arg>
+<tag>PageContent</tag>
+<doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
+<msg timestamp="20220104 20:49:23.758" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/1f82c9b1658040ec6faf6e8754f3cb09b6be84b6.png"&gt;&lt;img src="browser/screenshot/1f82c9b1658040ec6faf6e8754f3cb09b6be84b6.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220104 20:49:23.570" endtime="20220104 20:49:23.758"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.569" endtime="20220104 20:49:23.758"/>
+</kw>
+<status status="PASS" starttime="20220104 20:49:23.552" endtime="20220104 20:49:23.759"/>
+</test>
+<doc>Signup Required Test Suite</doc>
+<status status="PASS" starttime="20220104 20:49:14.481" endtime="20220104 20:49:23.767"/>
+</suite>
+<status status="PASS" starttime="20220104 20:49:14.447" endtime="20220104 20:49:23.804"/>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="4" fail="0" skip="0" id="s1" name="Tests">Tests</stat>
+<stat pass="4" fail="0" skip="0" id="s1-s1" name="SignupRequired">Tests.SignupRequired</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

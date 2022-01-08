@@ -1,0 +1,114 @@
+{"level":30,"time":"2022-01-04T23:49:15.646Z","pid":8484,"hostname":"Jarvis","msg":"Listening on 62879"}
+{"level":30,"time":"2022-01-04T23:49:16.458Z","pid":8484,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:16.467Z","pid":8484,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:16.577Z","pid":8484,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:16.577Z","pid":8484,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:21.754Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.login-form"}
+{"level":30,"time":"2022-01-04T23:49:21.793Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:21.831Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:21.861Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Entrar"}
+{"level":30,"time":"2022-01-04T23:49:21.953Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/profile\"]"}
+{"level":30,"time":"2022-01-04T23:49:22.628Z","pid":8484,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:22.652Z","pid":8484,"hostname":"Jarvis","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Dio Linux"}
+{"level":30,"time":"2022-01-04T23:49:22.655Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=a[href=\"/be-geek\"] >> text=Seja um Geek"}
+{"level":30,"time":"2022-01-04T23:49:22.726Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.be-geek-form"}
+{"level":30,"time":"2022-01-04T23:49:22.752Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:22.757Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:22.781Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:22.799Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:22.816Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:22.831Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:22.851Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:22.917Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=A descrição deve ter no minimo 80 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:23.062Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:23.066Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:23.084Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:23.100Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:23.119Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:23.134Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:23.156Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:23.215Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=A descrição deve ter no máximo 255 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:23.367Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:23.373Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:23.393Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:23.415Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:23.431Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:23.451Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:23.473Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:23.548Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe a descrição do seu trabalho"}
+{"level":30,"time":"2022-01-04T23:49:23.696Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:23.701Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:23.720Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:23.757Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:23.785Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:23.807Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:23.841Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:23.920Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD"}
+{"level":30,"time":"2022-01-04T23:49:24.105Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:24.116Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:24.134Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:24.158Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:24.173Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:24.197Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:24.217Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:24.301Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD"}
+{"level":30,"time":"2022-01-04T23:49:24.474Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:24.482Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:24.500Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:24.522Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:24.537Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:24.560Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:24.582Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:24.631Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O Whatsapp deve ter 11 digitos contando com o DDD"}
+{"level":30,"time":"2022-01-04T23:49:24.768Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:24.772Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:24.791Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:24.807Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:24.823Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:24.837Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:24.856Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:24.914Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Valor hora deve ser numérico"}
+{"level":30,"time":"2022-01-04T23:49:25.052Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:25.056Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:25.071Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:25.089Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:25.103Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:25.119Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:25.134Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:25.199Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Valor hora deve ser numérico"}
+{"level":30,"time":"2022-01-04T23:49:25.336Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:25.341Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:25.361Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:25.381Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:25.395Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:25.413Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:25.433Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:25.501Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Valor hora deve ser numérico"}
+{"level":30,"time":"2022-01-04T23:49:25.672Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:25.682Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:25.702Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:25.727Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:25.749Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:25.763Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:25.783Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:25.827Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Valor hora deve ser numérico"}
+{"level":30,"time":"2022-01-04T23:49:25.971Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:25.977Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:25.994Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:26.015Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=work"}
+{"level":30,"time":"2022-01-04T23:49:26.029Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:26.048Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:26.096Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Por favor, informe se você é um Geek Supremo"}
+{"level":30,"time":"2022-01-04T23:49:26.235Z","pid":8484,"hostname":"Jarvis","msg":"On executeJavascript, supress ReferenceError: document is not defined for eval."}
+{"level":30,"time":"2022-01-04T23:49:26.241Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=whatsapp"}
+{"level":30,"time":"2022-01-04T23:49:26.261Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=desc"}
+{"level":30,"time":"2022-01-04T23:49:26.278Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=printer_repair"}
+{"level":30,"time":"2022-01-04T23:49:26.294Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=cost"}
+{"level":30,"time":"2022-01-04T23:49:26.318Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=button >> text=Quero ser um Geek"}
+{"level":30,"time":"2022-01-04T23:49:26.379Z","pid":8484,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Por favor, selecione o modelo de trabalho"}
+{"level":30,"time":"2022-01-04T23:49:26.519Z","pid":8484,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:26.519Z","pid":8484,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:26.519Z","pid":8484,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:26.527Z","pid":8484,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:26.527Z","pid":8484,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:26.527Z","pid":8484,"hostname":"Jarvis","msg":"Changed active page"}

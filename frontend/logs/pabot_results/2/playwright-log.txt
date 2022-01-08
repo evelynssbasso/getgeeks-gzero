@@ -1,0 +1,160 @@
+{"level":30,"time":"2022-01-04T23:49:15.658Z","pid":16872,"hostname":"Jarvis","msg":"Listening on 62880"}
+{"level":30,"time":"2022-01-04T23:49:16.496Z","pid":16872,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:16.508Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:16.606Z","pid":16872,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:16.606Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:22.569Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:22.601Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:22.642Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:22.666Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:22.685Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:22.705Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:22.783Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-title"}
+{"level":30,"time":"2022-01-04T23:49:23.436Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:23.461Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element css=.swal2-title containing Oops..."}
+{"level":30,"time":"2022-01-04T23:49:23.467Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.swal2-html-container"}
+{"level":30,"time":"2022-01-04T23:49:23.491Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:23.518Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element css=.swal2-html-container containing Já temos um usuário com o e-mail informado."}
+{"level":30,"time":"2022-01-04T23:49:23.739Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:23.739Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:23.739Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:23.768Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:23.768Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:23.768Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:24.066Z","pid":16872,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:24.070Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:24.158Z","pid":16872,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:24.159Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:30.033Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:30.067Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:30.096Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:30.117Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:30.134Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:30.156Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:30.223Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O email está estranho"}
+{"level":30,"time":"2022-01-04T23:49:30.450Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:30.450Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:30.450Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:30.473Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:30.473Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:30.473Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:30.743Z","pid":16872,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:30.747Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:30.814Z","pid":16872,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:30.814Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:38.638Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:38.664Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:38.738Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: false"}
+{"level":30,"time":"2022-01-04T23:49:38.747Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: xpath=//span[@class=\"error\"]"}
+{"level":30,"time":"2022-01-04T23:49:38.758Z","pid":16872,"hostname":"Jarvis","msg":"element= selector parsed without children"}
+{"level":30,"time":"2022-01-04T23:49:38.758Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:38.766Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element element=149b74ac-8b12-4e1a-b476-2dfa133f927d containing Cadê o seu nome?"}
+{"level":30,"time":"2022-01-04T23:49:38.771Z","pid":16872,"hostname":"Jarvis","msg":"element= selector parsed without children"}
+{"level":30,"time":"2022-01-04T23:49:38.771Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:38.776Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element element=eecc8eef-e446-4401-b484-61fc5caf37f5 containing E o sobrenome?"}
+{"level":30,"time":"2022-01-04T23:49:38.779Z","pid":16872,"hostname":"Jarvis","msg":"element= selector parsed without children"}
+{"level":30,"time":"2022-01-04T23:49:38.780Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:38.785Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element element=c11ba522-d841-4131-a37c-81f934606bba containing O email é importante também!"}
+{"level":30,"time":"2022-01-04T23:49:38.788Z","pid":16872,"hostname":"Jarvis","msg":"element= selector parsed without children"}
+{"level":30,"time":"2022-01-04T23:49:38.788Z","pid":16872,"hostname":"Jarvis","msg":"Strict mode is: true"}
+{"level":30,"time":"2022-01-04T23:49:38.792Z","pid":16872,"hostname":"Jarvis","msg":"Retrieved text for element element=cb991fcc-b115-4e3b-904a-6645590c027d containing Agora só falta a senha!"}
+{"level":30,"time":"2022-01-04T23:49:38.953Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:38.953Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:38.953Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:38.961Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:38.961Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:38.961Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:39.188Z","pid":16872,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:39.191Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:39.267Z","pid":16872,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:39.267Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:42.237Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:42.267Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:42.290Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:42.313Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:42.335Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:42.351Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:42.421Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:42.842Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:42.861Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:42.879Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:42.897Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:42.913Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:42.934Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:43.002Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:43.433Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:43.462Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:43.481Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:43.501Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:43.517Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:43.539Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:43.594Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:44.181Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:44.205Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:44.220Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:44.238Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:44.254Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:44.274Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:44.335Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:45.332Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:45.350Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:45.367Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:45.385Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:45.402Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:45.419Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:45.479Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:45.914Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:45.935Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:45.951Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:45.968Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:45.984Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:46.003Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:46.065Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:46.500Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:46.518Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:46.535Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:46.552Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:46.570Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:46.586Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:46.647Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:47.121Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:47.146Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:47.165Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:47.181Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:47.200Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:47.216Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:47.263Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:47.709Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:47.726Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:47.742Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:47.759Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:47.778Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:47.797Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:47.845Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:48.312Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:48.333Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:48.348Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:48.365Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:48.380Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:48.398Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:48.446Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:48.923Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:48.948Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:48.967Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:48.983Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:48.999Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:49.016Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:49.062Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:49.795Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:49.825Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=name"}
+{"level":30,"time":"2022-01-04T23:49:49.845Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=lastname"}
+{"level":30,"time":"2022-01-04T23:49:49.861Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=email"}
+{"level":30,"time":"2022-01-04T23:49:49.877Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: id=password"}
+{"level":30,"time":"2022-01-04T23:49:49.893Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:49.947Z","pid":16872,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Informe uma senha com pelo menos 6 caracteres"}
+{"level":30,"time":"2022-01-04T23:49:50.130Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:50.131Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:50.131Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:50.140Z","pid":16872,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:50.140Z","pid":16872,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:50.140Z","pid":16872,"hostname":"Jarvis","msg":"Changed active page"}

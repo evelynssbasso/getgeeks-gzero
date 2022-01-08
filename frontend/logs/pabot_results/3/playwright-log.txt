@@ -1,0 +1,17 @@
+{"level":30,"time":"2022-01-04T23:49:15.651Z","pid":5668,"hostname":"Jarvis","msg":"Listening on 62878"}
+{"level":30,"time":"2022-01-04T23:49:16.478Z","pid":5668,"hostname":"Jarvis","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-04T23:49:16.492Z","pid":5668,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:16.593Z","pid":5668,"hostname":"Jarvis","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-04T23:49:16.593Z","pid":5668,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:22.854Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.signup-form"}
+{"level":30,"time":"2022-01-04T23:49:22.889Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=.submit-button >> text=Cadastrar"}
+{"level":30,"time":"2022-01-04T23:49:22.952Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Cadê o seu nome?"}
+{"level":30,"time":"2022-01-04T23:49:23.149Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=E o sobrenome?"}
+{"level":30,"time":"2022-01-04T23:49:23.327Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=O email é importante também!"}
+{"level":30,"time":"2022-01-04T23:49:23.557Z","pid":5668,"hostname":"Jarvis","msg":"Page|Frame|Element resolved elementSelector: css=span[class=error] >> text=Agora só falta a senha!"}
+{"level":30,"time":"2022-01-04T23:49:23.771Z","pid":5668,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:23.771Z","pid":5668,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:23.771Z","pid":5668,"hostname":"Jarvis","msg":"Changed active page"}
+{"level":30,"time":"2022-01-04T23:49:23.791Z","pid":5668,"hostname":"Jarvis","msg":"Changed active context"}
+{"level":30,"time":"2022-01-04T23:49:23.792Z","pid":5668,"hostname":"Jarvis","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-04T23:49:23.792Z","pid":5668,"hostname":"Jarvis","msg":"Changed active page"}
