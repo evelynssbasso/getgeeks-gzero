@@ -1,6 +1,5 @@
 *Settings*
 Documentation           Signup Required Test Suite
-
 Resource        ${EXECDIR}/resources/Base.robot
 
 Suite Setup      Signup Without Fill Form

@@ -8,10 +8,10 @@ Library     factories/Users.py
 Connect To Postgres
 
     Connect To Database     psycopg2
-    ...                     hacfvybp
-    ...                     hacfvybp
-    ...                     G4QVI9vGGGxXP6MXmjom8B-BPKXfOnNo
-    ...                     chunee.db.elephantsql.com
+    ...                     yqvngvqr
+    ...                     yqvngvqr
+    ...                     OgPlLVHSsiq93FsdI5-8U_exzogjpj1u
+    ...                     fanny.db.elephantsql.com
     ...                     5432
 
 Reset Env
@@ -30,5 +30,17 @@ Insert User
 
 Users Seed
     
-    ${user}         Factory User Login
+    ${user}         Factory User    login
     Insert User     ${user}
+
+    ${user2}        Factory User    be_geek
+    Insert User     ${user2}
+
+    ${user3}        Factory User    short_desc
+    Insert User     ${user3}
+
+    ${user4}        Factory User    long_desc
+    Insert User     ${user4}
+
+   ${user5}        Factory User    req_fields
+    Insert User     ${user5}

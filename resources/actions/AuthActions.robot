@@ -1,6 +1,11 @@
 *Settings*
 Documentation       Authentication Actions
 
+*Variables*
+
+${IMPUT_EMAIL}      id=email
+${IMPUT_PASS}       id=password
+
 *Keywords*
 Go To Login Page
     Go To       ${BASE_URL}
@@ -24,3 +29,6 @@ User SHould Be Logged In
 
     Wait For Elements State     ${element}      visible     5
     Get Text                    ${element}      equal       ${expect_fullname}
+
+Should Be Type Email
+    Get Property           ${IMPUT_EMAIL}        type        equal       email
