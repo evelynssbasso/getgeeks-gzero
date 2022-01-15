@@ -1,16 +1,28 @@
 *Settings*
-Documentation       Helpers
+Documentation           Helpers
+*Keywords*
+Get Token
+    [Arguments]     ${user}
+    
+    # Obtendo o token
+    ${payload}      Create Dictionary       
+    ...             email=${user}[email]           
+    ...             password=${user}[password]
 
-*Keywords* 
-Remove User
-    [Arguments] ${user}
-
-    #Obtendo o token
-    ${payload}      Creat Dictionary    email=${user}[email]    password=${user}[password]
-    ${response}     POST Session  ${payload}
-
+    ${response}     POST Session    ${payload}
+    ${result}       Set Variable    ${EMPTY}
+    
     IF  "200" in "${response}"
-        ${token}        Set Varieble    Bearer ${response.json()}[token]
-        #Delete na rota /users
-        DELETE User     ${token}
-    END
+        ${result}        Set Variable        Bearer ${response.json()}[token]
+    END 
+
+    [return]             ${result}
+
+Remove User
+    [Arguments]     ${user}
+
+    ${token}        Get Token   ${user}
+
+    IF  "${token}"
+        DELETE User  ${token}
+    END     
