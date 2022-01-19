@@ -1,5 +1,4 @@
 *Settings*
-*Settings*
 Documentation           Sessions route
 
 *Keywords*
