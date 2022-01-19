@@ -1,4 +1,7 @@
+*Settings*
+Documentation       Users route
 
+ 
 *Keywords*
 POST User
     [Arguments]     ${payload}
@@ -29,6 +32,19 @@ GET User
 
     ${response}     GET
     ...             ${API_USERS}/users
+    ...             headers=${headers}
+    ...             expected_status=any
+
+    [return]  ${response}
+
+PUT User
+    [Arguments]     ${token}        ${payload}
+
+    ${headers}      Create Dictionary       Authorization=${token}
+
+    ${response}     PUT
+    ...             ${API_USERS}/users
+    ...             json=${payload}
     ...             headers=${headers}
     ...             expected_status=any
 
