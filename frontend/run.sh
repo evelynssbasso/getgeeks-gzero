@@ -1,7 +1,7 @@
 robot -l NONE -o NONE -r NONE tasks/Delorean.robot
 #robot -d ./logs  tests/AttemptBeGeek.robot
 #robot -d ./logs -v BROWSER:chromium -v HEADLESS:True -i smoke tests
-pabot -d ./logs -v BROWSER:chromium -v HEADLESS:True -e smoke tests
+pabot -x sunit.xml -d ./logs -v BROWSER:chromium -v HEADLESS:True -e smoke tests
 # ./run.sh
 rm -rf ./logs/browser
 mkdir ./logs/browser
