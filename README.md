@@ -12,7 +12,7 @@
 [x] - Install Python 3.7 or over
 [x] - Install Node.js 14.15 or over
 [x] - Install Git
-[x] - Clone this repository: git clone https://github.com/DicoMonteiro/getgeeks-gzero
+[x] - Clone this repository: git clone https://github.com/evelynssbasso/getgeeks-gzero
 [x] - Install the libraries of project: pip install -r requirements.txt
 ```
 
